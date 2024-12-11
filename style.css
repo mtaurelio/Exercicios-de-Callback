@@ -1,0 +1,14 @@
+body {
+  background-color: aqua;
+}
+
+/* // function contador(n1, n2, callback) {
+  //   for (let i = n1; i <= n2; i++) {
+  //     /** a variavel i recebe o parametro n1 que vai ser menor ou igual a n2 e vai acrescentar até que seja equivalente ao n2 
+  //     console.log(callback(i));
+  //   }
+  // }
+  // function dobrar(numero) {
+  //   return numero * 2;
+  // }
+  // contador(1, 9, dobrar); */
